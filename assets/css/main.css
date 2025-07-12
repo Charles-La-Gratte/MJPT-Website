@@ -888,8 +888,8 @@ section,
 }
 
 .testimonials .testimonial-item .testimonial-img {
-  width: 130px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   border-radius: 40%;
   border: 4px solid var(--background-color);
   margin: 0 auto;
